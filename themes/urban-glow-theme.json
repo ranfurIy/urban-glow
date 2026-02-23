@@ -451,7 +451,6 @@
                 "variable.other.object.js",
                 "variable.other.object.ts",
                 "variable.parameter",
-                "variable.parameter.js",
                 "variable.parameter.ts"
             ],
             "settings": {
@@ -590,6 +589,7 @@
         },
         {
             "scope": [
+                "variable.parameter.js",
                 "entity.name.function.silverstripe",
                 "support.constant.property-value.css"
             ],
@@ -634,6 +634,7 @@
                 "support.constant",
                 "support.function",
                 "support.macro",
+                "variable.parameter.js",
                 "variable.language",
                 "variable.scss"
             ],
@@ -677,7 +678,6 @@
                 "variable.annotation",
                 "variable.function",
                 "variable.parameter",
-                "variable.parameter.js",
                 "variable.parameter.ss",
                 "variable.parameter.ts",
                 "variable.silverstripe.brace"
